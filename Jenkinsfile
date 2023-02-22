@@ -5,7 +5,7 @@ pipeline
         stage('Hola') 
         {
             steps {
-                echo 'Estos son los problemas de confianza de los que te hablo!'
+                echo 'Modificación'
             }
         }
     }
